@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/AndroidStudioProjects/experiment2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.28" />
+        <entry key="..\:/Android/AndroidStudioProjects/experiment2/app/src/main/res/drawable/ic_arrow_left.xml" value="0.28" />
+        <entry key="..\:/Android/AndroidStudioProjects/experiment2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.28" />
+        <entry key="..\:/Android/AndroidStudioProjects/experiment2/app/src/main/res/layout/activity_charactivity.xml" value="0.31765711842667804" />
+        <entry key="..\:/Android/AndroidStudioProjects/experiment2/app/src/main/res/layout/activity_chat.xml" value="0.199438202247191" />
+        <entry key="..\:/Android/AndroidStudioProjects/experiment2/app/src/main/res/layout/activity_friend1.xml" value="0.25" />
+        <entry key="..\:/Android/AndroidStudioProjects/experiment2/app/src/main/res/layout/activity_friendlist1.xml" value="0.33" />
+        <entry key="..\:/Android/AndroidStudioProjects/experiment2/app/src/main/res/layout/activity_loading.xml" value="0.23617407071622848" />
+        <entry key="..\:/Android/AndroidStudioProjects/experiment2/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Android/AndroidStudioProjects/experiment2/app/src/main/res/layout/activity_query_weather.xml" value="0.2" />
+        <entry key="..\:/Android/AndroidStudioProjects/experiment2/app/src/main/res/layout/activity_register1.xml" value="0.25" />
+        <entry key="..\:/Android/AndroidStudioProjects/experiment2/app/src/main/res/layout/activity_weather.xml" value="0.33" />
+        <entry key="..\:/Android/AndroidStudioProjects/experiment2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1405" />
+        <entry key="..\:/Android/AndroidStudioProjects/experiment2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1405" />
+        <entry key="..\:/Users/Lven Tou/Desktop/test2dr/app/src/main/res/layout/activity_friendlist1.xml" value="0.33" />
+        <entry key="..\:/Users/Lven Tou/Desktop/test2dr/app/src/main/res/layout/activity_main.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/Lven Tou/Desktop/test2dr/app/src/main/res/layout/activity_register1.xml" value="0.38697916666666665" />
+        <entry key="..\:/test2dr/app/src/main/res/layout/activity_friendlist1.xml" value="0.109375" />
+        <entry key="..\:/test2dr/app/src/main/res/layout/activity_main.xml" value="0.8" />
+        <entry key="..\:/test2dr/app/src/main/res/layout/activity_register.xml" value="0.22552083333333334" />
+        <entry key="..\:/test2dr/app/src/main/res/layout/activity_register1.xml" value="0.264" />
+        <entry key="..\:/test2dr/app/src/main/res/layout/friendlist_1.xml" value="0.4" />
+        <entry key="..\:/test2dr/app/src/main/res/layout/register_1.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f7f7f7"
+    android:orientation="vertical">
+
+
+    <AbsoluteLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:ignore="Deprecated">
+
+        <TextView
+            android:layout_width="412dp"
+            android:layout_height="80dp"
+            android:layout_x="0dp"
+            android:background="#e5e5e5"
+            android:gravity="center"
+            android:text="小帅哥"
+            android:textColor="#000"
+            android:textSize="22dp" />
+
+        <ImageView
+            android:id="@+id/back_now"
+            android:layout_width="34dp"
+            android:layout_height="30dp"
+            android:layout_x="6dp"
+            android:layout_y="26dp"
+            android:src="@drawable/back" />
+
+
+    </AbsoluteLayout>
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="38dp"
+        android:text="晚上一起吃饭？"
+        android:textStyle="bold"
+        android:gravity="left"
+        android:textSize="22dp" />
+    <TextView
+        android:id="@+id/replay"
+        android:layout_width="match_parent"
+        android:layout_height="430dp"
+        android:text=""
+        android:textStyle="bold"
+        android:gravity="right"
+        android:textSize="22dp" />
+
+    <AbsoluteLayout
+        android:layout_width="match_parent"
+        android:layout_height="140dp"
+        android:background="#e5e5e5">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginTop="19dp"
+            android:layout_marginBottom="1dp"
+            android:background="#353535"></TextView>
+
+
+        <EditText
+            android:id="@+id/input_text"
+            android:layout_width="250dp"
+            android:layout_height="40dp"
+            android:layout_marginLeft="50dp"
+            android:layout_marginTop="40dp"
+            android:layout_x="54dp"
+            android:layout_y="21dp"
+            android:background="#fff"
+            android:hint="\t\t输入内容"></EditText>
+
+        <Button
+            android:id="@+id/send"
+            android:layout_width="80dp"
+            android:layout_height="60dp"
+            android:layout_marginLeft="320dp"
+            android:layout_marginTop="30dp"
+            android:layout_x="317dp"
+            android:layout_y="13dp"
+            android:src="@drawable/me"
+            android:text="发送" />
+
+
+    </AbsoluteLayout>
+
+
+</LinearLayout>
